@@ -25,3 +25,9 @@ Clone the project and run `gradle appRun` in the project folder to start it.
 Open `http://localhost:8080/` in a web browser.
 
 Run `gradle --stop` to stop it.
+
+## Usage
+
+1. Wait messages "Connected" in box.
+2. Type message in the text box and press "Send" to send it to the server.
+3. Messages will be echoed back to the box.
